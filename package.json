@@ -1,0 +1,22 @@
+{
+  "name": "excel-column-conversion",
+  "version": "1.0.0",
+  "description": "Conversion between letters and number for Excel column. For example, A => 1 / 27 => AA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xvrzhao/excel-column-conversion.git"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "xvrzhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xvrzhao/excel-column-conversion/issues"
+  },
+  "homepage": "https://github.com/xvrzhao/excel-column-conversion#readme"
+}
